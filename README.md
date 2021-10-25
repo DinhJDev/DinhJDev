@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @DinhJDev
-- 👀 I’m interested in learning new technologies and implementing them in my own projects as well as increasing my employability.
-- 🌱 I’m currently learning Python, MERN, and Java stacks. But looking to master the Java full stacks, since that's what local employers seek.
-- 💞️ I’m looking to collaborate on any simple projects!
+# Hello World, I'm Jason! 🌱
+I'm a full stack developer from Dallas, TX with experience in the Java Full Stack. I'm currently interested in learning MEAN, MERN, and Swift.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhjdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm currently working at Woz-U as a trainee and taking on some freelance opportunities. You can learn more about me through my LinkedIn.
+
+<a href="https://www.linkedin.com/in/dinhjdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+### Projects I'm actively working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dinhjdev&repo=Woz-U-Final-Project)](https://github.com/DinhJDev/Woz-U-Final-Project)
 
 <!---
 DinhJDev/DinhJDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
