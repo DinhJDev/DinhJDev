@@ -4,7 +4,7 @@
 
 I build products end to end — from the kind of systems that run at enterprise scale to scrappy 0 → 1 startups. Full-stack by habit, currently most at home across **Java/Spring, React, .NET, and Go**.
 
-- 🚀 Building [Growth Guild](https://growthguild.io)
+- 🚀 Building LucidSerum
 - 🌱 Currently learning **Go** through small, focused projects
 - 💬 Happy to talk engineering, startups, or collaboration
 
