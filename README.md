@@ -1,28 +1,39 @@
-# Hi, I'm Jason 👋
+# Jason Dinh
 
-**Founder @ [Growth Guild](https://growthguild.io)** · previously Software Engineering Lead Analyst @ Cigna · Dallas, TX
+**Software Engineer | Full-Stack Development | AI Integrations**
 
-I build products end to end — from the kind of systems that run at enterprise scale to scrappy 0 → 1 startups. Full-stack by habit, currently most at home across **Java/Spring, React, .NET, and Go**.
+I'm a software engineer based in the Dallas–Fort Worth area, with experience building enterprise software, full-stack web applications, and AI-powered products.
 
-- 🚀 Building LucidSerum
-- 🌱 Currently learning **Go** through small, focused projects
-- 💬 Happy to talk engineering, startups, or collaboration
+My background spans Java/Spring Boot services in enterprise healthcare environments and independently designed applications using React, Next.js, and TypeScript.
 
-### Tech I work with
+I enjoy working across the stack, from understanding user requirements and designing interfaces to implementing application logic, APIs, integrations, and reliable production systems.
 
-`Java` · `TypeScript` · `JavaScript` · `C#` · `Go` · `Spring` · `React` · `.NET` · `Node.js` · `MySQL` · `PostgreSQL` · `Docker` · `AWS`
+## What I've worked on
 
-### Find me
+**Adaptive Automotive Quoting — [LxL Performance](https://lxlperformance.com/?ref=github)**  
+Designed and developed a full-stack automotive website featuring an AI-assisted quoting experience. The application extracts structured vehicle information from natural-language input, uses a state machine to adapt its interface, and integrates payment processing and CRM workflows.
 
-<a href="https://growthguild.io"><img src="https://img.shields.io/badge/Growth%20Guild-1F6FEB?style=flat-square&logo=safari&logoColor=white" alt="Growth Guild" /></a>
-<a href="https://www.linkedin.com/in/dinhjdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:jasond@growthguild.io"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+**Enterprise Healthcare Software & Conversational AI — Cigna**  
+Developed and supported Java/Spring Boot authentication APIs, enterprise integrations, and conversational AI voice systems serving thousands of monthly provider and patient interactions.
 
-<br/>
+**Yokai — In Development**  
+Currently developing Yokai, a local-first, model-agnostic AI coworker. The project is in active development, with its source repository currently private.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhjdev&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## Technologies
 
-<!---
-DinhJDev/DinhJDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+
+**Backend:** Java, Spring Boot, Node.js, REST APIs
+
+**Data:** PostgreSQL, MySQL, Oracle Database, Redis
+
+**Infrastructure & Tooling:** Docker, Kubernetes, AWS, GitHub Actions/CI/CD, Jenkins
+
+**Testing & Observability:** JUnit, Mockito, Playwright, Dynatrace, Grafana
+
+## Connect
+
+![Static Badge](https://img.shields.io/badge/portfolio-visit?style=flat&logo=nodedotjs&color=white&link=https%3A%2F%2Fwww.dinhjdev.com%2F)
+<a href="https://www.linkedin.com/in/dinhjdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flate&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jasond@growthguild.io"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/dinhjdev)
